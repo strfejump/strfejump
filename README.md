@@ -10,7 +10,3 @@ hi im sadman<br>discord: .sadman_<br>
 ![](https://streak-stats.demolab.com/?user=strfejump&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=strfejump&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=strfejump&icon=0&color=000000)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
